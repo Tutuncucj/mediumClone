@@ -1,0 +1,39 @@
+body {
+    font-family: 'PT Serif', serif;
+    box-sizing: border-box;
+}
+.bg-yellow {
+    background-color: #FFC017; 
+}
+.border-bottom-dark {
+    border-bottom: 1px solid #292929;
+}
+.btn-size {
+    border-radius: 99em ;padding: 7px 20px 9px;
+    border-style: solid;
+    width: 128px;
+    border-color: #000;
+    
+}
+.aside-buttons {
+    margin-bottom: 8px;
+    color: rgba(117, 117, 117, 1);
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 400;
+    box-sizing: inherit;
+    border-radius: 3px;
+    border: 1px solid rgba(230, 230, 230, 1);
+    padding: 6px 16px;
+    margin-right: 8px;
+}
+.list-style {
+    text-decoration: none;
+    color: rgba(117, 117, 117, 1);
+    line-height: 20px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.border-top-dark {
+    border-top: 1px solid #E6E6E6;
+}
